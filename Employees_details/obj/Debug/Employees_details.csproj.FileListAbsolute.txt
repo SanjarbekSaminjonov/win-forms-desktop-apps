@@ -1,0 +1,159 @@
+C:\Users\user\source\repos\Employees_details\bin\Debug\Employees_details.exe.config
+C:\Users\user\source\repos\Employees_details\bin\Debug\Employees_details.exe
+C:\Users\user\source\repos\Employees_details\bin\Debug\Employees_details.pdb
+C:\Users\user\source\repos\Employees_details\bin\Debug\XanderUI.dll
+C:\Users\user\source\repos\Employees_details\obj\Debug\Employees_details.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Employees_details\obj\Debug\Employees_details.Properties.Resources.resources
+C:\Users\user\source\repos\Employees_details\obj\Debug\Employees_details.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Employees_details\obj\Debug\Employees_details.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Employees_details\obj\Debug\Employees_details.csproj.CopyComplete
+C:\Users\user\source\repos\Employees_details\obj\Debug\Employees_details.exe
+C:\Users\user\source\repos\Employees_details\obj\Debug\Employees_details.pdb
+C:\Users\user\source\repos\Employees_details\bin\Debug\Guna.UI2.dll
+C:\Users\user\source\repos\Employees_details\obj\Debug\Employees_details.MainWindow.resources
+C:\Users\user\source\repos\Employees_details\bin\Debug\Database1.mdf
+C:\Users\user\source\repos\Employees_details\bin\Debug\Database1_log.ldf
+C:\Users\user\Desktop\Employees_details\obj\Debug\Employees_details.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Employees_details\obj\Debug\Employees_details.exe
+C:\Users\user\Desktop\Employees_details\obj\Debug\Employees_details.pdb
+C:\Users\user\Desktop\Employees_details\bin\Debug\Database1.mdf
+C:\Users\user\Desktop\Employees_details\bin\Debug\Database1_log.ldf
+C:\Users\user\Desktop\Employees_details\bin\Debug\Employees_details.exe.config
+C:\Users\user\Desktop\Employees_details\bin\Debug\Employees_details.exe
+C:\Users\user\Desktop\Employees_details\bin\Debug\Employees_details.pdb
+C:\Users\user\Desktop\Employees_details\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\user\Desktop\Employees_details\bin\Debug\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Employees_details\bin\Debug\System.Diagnostics.EventLog.dll
+C:\Users\user\Desktop\Employees_details\bin\Debug\System.Security.AccessControl.dll
+C:\Users\user\Desktop\Employees_details\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\Employees_details\bin\Debug\System.ServiceProcess.ServiceController.dll
+C:\Users\user\Desktop\Employees_details\bin\Debug\TopShelf.ServiceInstaller.dll
+C:\Users\user\Desktop\Employees_details\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\user\Desktop\Employees_details\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\user\Desktop\Employees_details\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\user\Desktop\Employees_details\bin\Debug\System.Security.AccessControl.xml
+C:\Users\user\Desktop\Employees_details\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\user\Desktop\Employees_details\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\user\Desktop\Employees_details\bin\Debug\TopShelf.ServiceInstaller.xml
+C:\Users\user\Desktop\Employees_details\obj\Debug\Employees_details.MainWindow.resources
+C:\Users\user\Desktop\Employees_details\obj\Debug\Employees_details.Properties.Resources.resources
+C:\Users\user\Desktop\Employees_details\obj\Debug\Employees_details.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Employees_details\obj\Debug\Employees_details.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Employees_details\obj\Debug\Employees_details.csproj.CopyComplete
+C:\Users\user\Desktop\Dasturlash\Employees_details\bin\Debug\Database1.mdf
+C:\Users\user\Desktop\Dasturlash\Employees_details\bin\Debug\Database1_log.ldf
+C:\Users\user\Desktop\Dasturlash\Employees_details\bin\Debug\Employees_details.exe.config
+C:\Users\user\Desktop\Dasturlash\Employees_details\bin\Debug\Employees_details.exe
+C:\Users\user\Desktop\Dasturlash\Employees_details\bin\Debug\Employees_details.pdb
+C:\Users\user\Desktop\Dasturlash\Employees_details\bin\Debug\Guna.UI2.dll
+C:\Users\user\Desktop\Dasturlash\Employees_details\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\user\Desktop\Dasturlash\Employees_details\bin\Debug\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Dasturlash\Employees_details\bin\Debug\System.Diagnostics.EventLog.dll
+C:\Users\user\Desktop\Dasturlash\Employees_details\bin\Debug\System.Security.AccessControl.dll
+C:\Users\user\Desktop\Dasturlash\Employees_details\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\Dasturlash\Employees_details\bin\Debug\System.ServiceProcess.ServiceController.dll
+C:\Users\user\Desktop\Dasturlash\Employees_details\bin\Debug\TopShelf.ServiceInstaller.dll
+C:\Users\user\Desktop\Dasturlash\Employees_details\bin\Debug\XanderUI.dll
+C:\Users\user\Desktop\Dasturlash\Employees_details\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\user\Desktop\Dasturlash\Employees_details\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\user\Desktop\Dasturlash\Employees_details\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\user\Desktop\Dasturlash\Employees_details\bin\Debug\System.Security.AccessControl.xml
+C:\Users\user\Desktop\Dasturlash\Employees_details\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\user\Desktop\Dasturlash\Employees_details\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\user\Desktop\Dasturlash\Employees_details\bin\Debug\TopShelf.ServiceInstaller.xml
+C:\Users\user\Desktop\Dasturlash\Employees_details\obj\Debug\Employees_details.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Dasturlash\Employees_details\obj\Debug\Employees_details.MainWindow.resources
+C:\Users\user\Desktop\Dasturlash\Employees_details\obj\Debug\Employees_details.Properties.Resources.resources
+C:\Users\user\Desktop\Dasturlash\Employees_details\obj\Debug\Employees_details.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Dasturlash\Employees_details\obj\Debug\Employees_details.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Dasturlash\Employees_details\obj\Debug\Employees_details.csproj.CopyComplete
+C:\Users\user\Desktop\Dasturlash\Employees_details\obj\Debug\Employees_details.exe
+C:\Users\user\Desktop\Dasturlash\Employees_details\obj\Debug\Employees_details.pdb
+C:\Users\user\Desktop\Dasturlash\Employees_details\bin\Debug\Employees_details.exe.manifest
+C:\Users\user\Desktop\Dasturlash\Employees_details\bin\Debug\Employees_details.application
+C:\Users\user\Desktop\Dasturlash\Employees_details\obj\Debug\Employees_details.exe.manifest
+C:\Users\user\Desktop\Dasturlash\Employees_details\obj\Debug\Employees_details.application
+C:\Users\user\Desktop\Employees_details\bin\Debug\Employees_details.exe.manifest
+C:\Users\user\Desktop\Employees_details\bin\Debug\Employees_details.application
+C:\Users\user\Desktop\Employees_details\obj\Debug\Employees_details.exe.manifest
+C:\Users\user\Desktop\Employees_details\obj\Debug\Employees_details.application
+C:\Users\user\Documents\MyDocuments\Universitet\Daasturlash\Kurs ishi\Programma\Employees_details\bin\Debug\Database1.mdf
+C:\Users\user\Documents\MyDocuments\Universitet\Daasturlash\Kurs ishi\Programma\Employees_details\bin\Debug\Database1_log.ldf
+C:\Users\user\Documents\MyDocuments\Universitet\Daasturlash\Kurs ishi\Programma\Employees_details\bin\Debug\Employees_details.exe.config
+C:\Users\user\Documents\MyDocuments\Universitet\Daasturlash\Kurs ishi\Programma\Employees_details\bin\Debug\Employees_details.exe.manifest
+C:\Users\user\Documents\MyDocuments\Universitet\Daasturlash\Kurs ishi\Programma\Employees_details\bin\Debug\Employees_details.application
+C:\Users\user\Documents\MyDocuments\Universitet\Daasturlash\Kurs ishi\Programma\Employees_details\bin\Debug\Employees_details.exe
+C:\Users\user\Documents\MyDocuments\Universitet\Daasturlash\Kurs ishi\Programma\Employees_details\bin\Debug\Employees_details.pdb
+C:\Users\user\Documents\MyDocuments\Universitet\Daasturlash\Kurs ishi\Programma\Employees_details\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\user\Documents\MyDocuments\Universitet\Daasturlash\Kurs ishi\Programma\Employees_details\bin\Debug\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Documents\MyDocuments\Universitet\Daasturlash\Kurs ishi\Programma\Employees_details\bin\Debug\System.Diagnostics.EventLog.dll
+C:\Users\user\Documents\MyDocuments\Universitet\Daasturlash\Kurs ishi\Programma\Employees_details\bin\Debug\System.Security.AccessControl.dll
+C:\Users\user\Documents\MyDocuments\Universitet\Daasturlash\Kurs ishi\Programma\Employees_details\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\user\Documents\MyDocuments\Universitet\Daasturlash\Kurs ishi\Programma\Employees_details\bin\Debug\System.ServiceProcess.ServiceController.dll
+C:\Users\user\Documents\MyDocuments\Universitet\Daasturlash\Kurs ishi\Programma\Employees_details\bin\Debug\TopShelf.ServiceInstaller.dll
+C:\Users\user\Documents\MyDocuments\Universitet\Daasturlash\Kurs ishi\Programma\Employees_details\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\user\Documents\MyDocuments\Universitet\Daasturlash\Kurs ishi\Programma\Employees_details\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\user\Documents\MyDocuments\Universitet\Daasturlash\Kurs ishi\Programma\Employees_details\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\user\Documents\MyDocuments\Universitet\Daasturlash\Kurs ishi\Programma\Employees_details\bin\Debug\System.Security.AccessControl.xml
+C:\Users\user\Documents\MyDocuments\Universitet\Daasturlash\Kurs ishi\Programma\Employees_details\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\user\Documents\MyDocuments\Universitet\Daasturlash\Kurs ishi\Programma\Employees_details\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\user\Documents\MyDocuments\Universitet\Daasturlash\Kurs ishi\Programma\Employees_details\bin\Debug\TopShelf.ServiceInstaller.xml
+C:\Users\user\Documents\MyDocuments\Universitet\Daasturlash\Kurs ishi\Programma\Employees_details\obj\Debug\Employees_details.csprojAssemblyReference.cache
+C:\Users\user\Documents\MyDocuments\Universitet\Daasturlash\Kurs ishi\Programma\Employees_details\obj\Debug\Employees_details.MainWindow.resources
+C:\Users\user\Documents\MyDocuments\Universitet\Daasturlash\Kurs ishi\Programma\Employees_details\obj\Debug\Employees_details.Properties.Resources.resources
+C:\Users\user\Documents\MyDocuments\Universitet\Daasturlash\Kurs ishi\Programma\Employees_details\obj\Debug\Employees_details.csproj.GenerateResource.cache
+C:\Users\user\Documents\MyDocuments\Universitet\Daasturlash\Kurs ishi\Programma\Employees_details\obj\Debug\Employees_details.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\MyDocuments\Universitet\Daasturlash\Kurs ishi\Programma\Employees_details\obj\Debug\Employees_details.exe.manifest
+C:\Users\user\Documents\MyDocuments\Universitet\Daasturlash\Kurs ishi\Programma\Employees_details\obj\Debug\Employees_details.application
+C:\Users\user\Documents\MyDocuments\Universitet\Daasturlash\Kurs ishi\Programma\Employees_details\obj\Debug\Employees_details.csproj.CopyComplete
+C:\Users\user\Documents\MyDocuments\Universitet\Daasturlash\Kurs ishi\Programma\Employees_details\obj\Debug\Employees_details.exe
+C:\Users\user\Documents\MyDocuments\Universitet\Daasturlash\Kurs ishi\Programma\Employees_details\obj\Debug\Employees_details.pdb
+C:\Users\user\Desktop\Kurs ishi\Loyiha - korxona malumotlarini saqlovchi tizim\Employees_details\bin\Debug\Database1.mdf
+C:\Users\user\Desktop\Kurs ishi\Loyiha - korxona malumotlarini saqlovchi tizim\Employees_details\bin\Debug\Database1_log.ldf
+C:\Users\user\Desktop\Kurs ishi\Loyiha - korxona malumotlarini saqlovchi tizim\Employees_details\bin\Debug\Employees_details.exe.config
+C:\Users\user\Desktop\Kurs ishi\Loyiha - korxona malumotlarini saqlovchi tizim\Employees_details\bin\Debug\Employees_details.exe.manifest
+C:\Users\user\Desktop\Kurs ishi\Loyiha - korxona malumotlarini saqlovchi tizim\Employees_details\bin\Debug\Employees_details.application
+C:\Users\user\Desktop\Kurs ishi\Loyiha - korxona malumotlarini saqlovchi tizim\Employees_details\bin\Debug\Employees_details.exe
+C:\Users\user\Desktop\Kurs ishi\Loyiha - korxona malumotlarini saqlovchi tizim\Employees_details\bin\Debug\Employees_details.pdb
+C:\Users\user\Desktop\Kurs ishi\Loyiha - korxona malumotlarini saqlovchi tizim\Employees_details\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\user\Desktop\Kurs ishi\Loyiha - korxona malumotlarini saqlovchi tizim\Employees_details\bin\Debug\Microsoft.Win32.SystemEvents.dll
+C:\Users\user\Desktop\Kurs ishi\Loyiha - korxona malumotlarini saqlovchi tizim\Employees_details\bin\Debug\System.Diagnostics.EventLog.dll
+C:\Users\user\Desktop\Kurs ishi\Loyiha - korxona malumotlarini saqlovchi tizim\Employees_details\bin\Debug\System.Security.AccessControl.dll
+C:\Users\user\Desktop\Kurs ishi\Loyiha - korxona malumotlarini saqlovchi tizim\Employees_details\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\Kurs ishi\Loyiha - korxona malumotlarini saqlovchi tizim\Employees_details\bin\Debug\System.ServiceProcess.ServiceController.dll
+C:\Users\user\Desktop\Kurs ishi\Loyiha - korxona malumotlarini saqlovchi tizim\Employees_details\bin\Debug\TopShelf.ServiceInstaller.dll
+C:\Users\user\Desktop\Kurs ishi\Loyiha - korxona malumotlarini saqlovchi tizim\Employees_details\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\user\Desktop\Kurs ishi\Loyiha - korxona malumotlarini saqlovchi tizim\Employees_details\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\user\Desktop\Kurs ishi\Loyiha - korxona malumotlarini saqlovchi tizim\Employees_details\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\user\Desktop\Kurs ishi\Loyiha - korxona malumotlarini saqlovchi tizim\Employees_details\bin\Debug\System.Security.AccessControl.xml
+C:\Users\user\Desktop\Kurs ishi\Loyiha - korxona malumotlarini saqlovchi tizim\Employees_details\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\user\Desktop\Kurs ishi\Loyiha - korxona malumotlarini saqlovchi tizim\Employees_details\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\user\Desktop\Kurs ishi\Loyiha - korxona malumotlarini saqlovchi tizim\Employees_details\bin\Debug\TopShelf.ServiceInstaller.xml
+C:\Users\user\Desktop\Kurs ishi\Loyiha - korxona malumotlarini saqlovchi tizim\Employees_details\obj\Debug\Employees_details.MainWindow.resources
+C:\Users\user\Desktop\Kurs ishi\Loyiha - korxona malumotlarini saqlovchi tizim\Employees_details\obj\Debug\Employees_details.Properties.Resources.resources
+C:\Users\user\Desktop\Kurs ishi\Loyiha - korxona malumotlarini saqlovchi tizim\Employees_details\obj\Debug\Employees_details.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Kurs ishi\Loyiha - korxona malumotlarini saqlovchi tizim\Employees_details\obj\Debug\Employees_details.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Kurs ishi\Loyiha - korxona malumotlarini saqlovchi tizim\Employees_details\obj\Debug\Employees_details.exe.manifest
+C:\Users\user\Desktop\Kurs ishi\Loyiha - korxona malumotlarini saqlovchi tizim\Employees_details\obj\Debug\Employees_details.application
+C:\Users\user\Desktop\Kurs ishi\Loyiha - korxona malumotlarini saqlovchi tizim\Employees_details\obj\Debug\Employees_details.csproj.CopyComplete
+C:\Users\user\Desktop\Kurs ishi\Loyiha - korxona malumotlarini saqlovchi tizim\Employees_details\obj\Debug\Employees_details.exe
+C:\Users\user\Desktop\Kurs ishi\Loyiha - korxona malumotlarini saqlovchi tizim\Employees_details\obj\Debug\Employees_details.pdb
+C:\Users\user\source\repos\Employees_details01\bin\Debug\Database1.mdf
+C:\Users\user\source\repos\Employees_details01\bin\Debug\Database1_log.ldf
+C:\Users\user\source\repos\Employees_details01\bin\Debug\Employees_details.exe.config
+C:\Users\user\source\repos\Employees_details01\bin\Debug\Employees_details.exe.manifest
+C:\Users\user\source\repos\Employees_details01\bin\Debug\Employees_details.application
+C:\Users\user\source\repos\Employees_details01\bin\Debug\Employees_details.exe
+C:\Users\user\source\repos\Employees_details01\bin\Debug\Employees_details.pdb
+C:\Users\user\source\repos\Employees_details01\bin\Debug\Guna.UI2.dll
+C:\Users\user\source\repos\Employees_details01\bin\Debug\XanderUI.dll
+C:\Users\user\source\repos\Employees_details01\obj\Debug\Employees_details.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Employees_details01\obj\Debug\Employees_details.MainWindow.resources
+C:\Users\user\source\repos\Employees_details01\obj\Debug\Employees_details.Properties.Resources.resources
+C:\Users\user\source\repos\Employees_details01\obj\Debug\Employees_details.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Employees_details01\obj\Debug\Employees_details.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Employees_details01\obj\Debug\Employees_details.exe.manifest
+C:\Users\user\source\repos\Employees_details01\obj\Debug\Employees_details.application
+C:\Users\user\source\repos\Employees_details01\obj\Debug\Employees_details.csproj.CopyComplete
+C:\Users\user\source\repos\Employees_details01\obj\Debug\Employees_details.exe
+C:\Users\user\source\repos\Employees_details01\obj\Debug\Employees_details.pdb

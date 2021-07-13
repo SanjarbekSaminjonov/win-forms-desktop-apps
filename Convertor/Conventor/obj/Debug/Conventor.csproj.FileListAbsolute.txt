@@ -1,0 +1,23 @@
+c:\users\user\documents\visual studio 2012\Projects\Conventor\Conventor\bin\Debug\Conventor.exe.config
+c:\users\user\documents\visual studio 2012\Projects\Conventor\Conventor\bin\Debug\Conventor.exe
+c:\users\user\documents\visual studio 2012\Projects\Conventor\Conventor\bin\Debug\Conventor.pdb
+c:\users\user\documents\visual studio 2012\Projects\Conventor\Conventor\obj\Debug\Conventor.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\Conventor\Conventor\obj\Debug\Conventor.Form1.resources
+c:\users\user\documents\visual studio 2012\Projects\Conventor\Conventor\obj\Debug\Conventor.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\Conventor\Conventor\obj\Debug\Conventor.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\Conventor\Conventor\obj\Debug\Conventor.exe
+c:\users\user\documents\visual studio 2012\Projects\Conventor\Conventor\obj\Debug\Conventor.pdb
+c:\users\user\documents\visual studio 2012\Projects\Conventor\Conventor\obj\Debug\Conventor.Form2.resources
+c:\users\user\documents\visual studio 2012\Projects\Conventor\Conventor\obj\Debug\Conventor.Form3.resources
+C:\Users\user\source\repos\Conventor\Conventor\bin\Debug\Conventor.exe.config
+C:\Users\user\source\repos\Conventor\Conventor\bin\Debug\Conventor.exe
+C:\Users\user\source\repos\Conventor\Conventor\bin\Debug\Conventor.pdb
+C:\Users\user\source\repos\Conventor\Conventor\obj\Debug\Conventor.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Conventor\Conventor\obj\Debug\Conventor.Form1.resources
+C:\Users\user\source\repos\Conventor\Conventor\obj\Debug\Conventor.Form2.resources
+C:\Users\user\source\repos\Conventor\Conventor\obj\Debug\Conventor.Form3.resources
+C:\Users\user\source\repos\Conventor\Conventor\obj\Debug\Conventor.Properties.Resources.resources
+C:\Users\user\source\repos\Conventor\Conventor\obj\Debug\Conventor.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Conventor\Conventor\obj\Debug\Conventor.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Conventor\Conventor\obj\Debug\Conventor.exe
+C:\Users\user\source\repos\Conventor\Conventor\obj\Debug\Conventor.pdb

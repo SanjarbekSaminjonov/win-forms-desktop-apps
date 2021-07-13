@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\ColorPicker\bin\Debug\ColorPicker.exe.config
+C:\Users\user\source\repos\ColorPicker\bin\Debug\ColorPicker.exe
+C:\Users\user\source\repos\ColorPicker\bin\Debug\ColorPicker.pdb
+C:\Users\user\source\repos\ColorPicker\obj\Debug\ColorPicker.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ColorPicker\obj\Debug\ColorPicker.Form1.resources
+C:\Users\user\source\repos\ColorPicker\obj\Debug\ColorPicker.Properties.Resources.resources
+C:\Users\user\source\repos\ColorPicker\obj\Debug\ColorPicker.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ColorPicker\obj\Debug\ColorPicker.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ColorPicker\obj\Debug\ColorPicker.exe
+C:\Users\user\source\repos\ColorPicker\obj\Debug\ColorPicker.pdb
+C:\Users\user\source\repos\ColorPicker\bin\Debug\XanderUI.dll
+C:\Users\user\source\repos\ColorPicker\obj\Debug\ColorPicker.csproj.CopyComplete
+C:\Users\user\source\repos\ColorPicker\bin\Debug\ColorPicker.exe.manifest
+C:\Users\user\source\repos\ColorPicker\bin\Debug\ColorPicker.application
+C:\Users\user\source\repos\ColorPicker\obj\Debug\ColorPicker.exe.manifest
+C:\Users\user\source\repos\ColorPicker\obj\Debug\ColorPicker.application

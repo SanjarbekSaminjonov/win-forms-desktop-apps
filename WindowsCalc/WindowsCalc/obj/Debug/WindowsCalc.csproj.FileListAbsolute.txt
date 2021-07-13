@@ -1,0 +1,41 @@
+c:\users\user\documents\visual studio 2012\Projects\WindowsCalc\WindowsCalc\bin\Debug\WindowsCalc.exe.config
+c:\users\user\documents\visual studio 2012\Projects\WindowsCalc\WindowsCalc\bin\Debug\WindowsCalc.exe
+c:\users\user\documents\visual studio 2012\Projects\WindowsCalc\WindowsCalc\bin\Debug\WindowsCalc.pdb
+c:\users\user\documents\visual studio 2012\Projects\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.Properties.Resources.resources
+c:\users\user\documents\visual studio 2012\Projects\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2012\Projects\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.exe
+c:\users\user\documents\visual studio 2012\Projects\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.pdb
+c:\users\user\documents\visual studio 2012\Projects\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.Form1.resources
+C:\Users\user\documents\visual studio 2012\Projects\WindowsCalc\WindowsCalc\bin\Debug\WindowsCalc.exe.manifest
+C:\Users\user\documents\visual studio 2012\Projects\WindowsCalc\WindowsCalc\bin\Debug\WindowsCalc.application
+C:\Users\user\documents\visual studio 2012\Projects\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.exe.manifest
+C:\Users\user\documents\visual studio 2012\Projects\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.application
+C:\Users\user\documents\visual studio 2012\Projects\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\WindowsCalc\WindowsCalc\bin\Debug\WindowsCalc.exe.config
+C:\Users\user\source\repos\WindowsCalc\WindowsCalc\bin\Debug\WindowsCalc.exe.manifest
+C:\Users\user\source\repos\WindowsCalc\WindowsCalc\bin\Debug\WindowsCalc.application
+C:\Users\user\source\repos\WindowsCalc\WindowsCalc\bin\Debug\WindowsCalc.exe
+C:\Users\user\source\repos\WindowsCalc\WindowsCalc\bin\Debug\WindowsCalc.pdb
+C:\Users\user\source\repos\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.Form1.resources
+C:\Users\user\source\repos\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.Properties.Resources.resources
+C:\Users\user\source\repos\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.exe.manifest
+C:\Users\user\source\repos\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.application
+C:\Users\user\source\repos\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.exe
+C:\Users\user\source\repos\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.pdb
+C:\Users\user\Source\Repos\SanjarbekSaminjonov\WindowsCalc\WindowsCalc\bin\Debug\WindowsCalc.exe.config
+C:\Users\user\Source\Repos\SanjarbekSaminjonov\WindowsCalc\WindowsCalc\bin\Debug\WindowsCalc.exe.manifest
+C:\Users\user\Source\Repos\SanjarbekSaminjonov\WindowsCalc\WindowsCalc\bin\Debug\WindowsCalc.application
+C:\Users\user\Source\Repos\SanjarbekSaminjonov\WindowsCalc\WindowsCalc\bin\Debug\WindowsCalc.exe
+C:\Users\user\Source\Repos\SanjarbekSaminjonov\WindowsCalc\WindowsCalc\bin\Debug\WindowsCalc.pdb
+C:\Users\user\Source\Repos\SanjarbekSaminjonov\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.csprojAssemblyReference.cache
+C:\Users\user\Source\Repos\SanjarbekSaminjonov\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.Form1.resources
+C:\Users\user\Source\Repos\SanjarbekSaminjonov\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.Properties.Resources.resources
+C:\Users\user\Source\Repos\SanjarbekSaminjonov\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.csproj.GenerateResource.cache
+C:\Users\user\Source\Repos\SanjarbekSaminjonov\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\SanjarbekSaminjonov\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.exe.manifest
+C:\Users\user\Source\Repos\SanjarbekSaminjonov\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.application
+C:\Users\user\Source\Repos\SanjarbekSaminjonov\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.exe
+C:\Users\user\Source\Repos\SanjarbekSaminjonov\WindowsCalc\WindowsCalc\obj\Debug\WindowsCalc.pdb

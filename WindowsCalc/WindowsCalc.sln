@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsCalc", "WindowsCalc\WindowsCalc.csproj", "{90F7EBEB-5F8D-41A1-865E-20DB42EC45C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90F7EBEB-5F8D-41A1-865E-20DB42EC45C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90F7EBEB-5F8D-41A1-865E-20DB42EC45C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90F7EBEB-5F8D-41A1-865E-20DB42EC45C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90F7EBEB-5F8D-41A1-865E-20DB42EC45C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
