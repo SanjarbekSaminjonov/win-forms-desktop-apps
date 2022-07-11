@@ -1,0 +1,21 @@
+C:\Users\Sanjarbek\source\repos\WinFormApp\Kurs Ishi\bin\Debug\net6.0-windows\Kurs Ishi.exe
+C:\Users\Sanjarbek\source\repos\WinFormApp\Kurs Ishi\bin\Debug\net6.0-windows\Kurs Ishi.deps.json
+C:\Users\Sanjarbek\source\repos\WinFormApp\Kurs Ishi\bin\Debug\net6.0-windows\Kurs Ishi.runtimeconfig.json
+C:\Users\Sanjarbek\source\repos\WinFormApp\Kurs Ishi\bin\Debug\net6.0-windows\Kurs Ishi.dll
+C:\Users\Sanjarbek\source\repos\WinFormApp\Kurs Ishi\bin\Debug\net6.0-windows\Kurs Ishi.pdb
+C:\Users\Sanjarbek\source\repos\WinFormApp\Kurs Ishi\obj\Debug\net6.0-windows\Kurs Ishi.csproj.AssemblyReference.cache
+C:\Users\Sanjarbek\source\repos\WinFormApp\Kurs Ishi\obj\Debug\net6.0-windows\Kurs Ishi.csproj.GenerateResource.cache
+C:\Users\Sanjarbek\source\repos\WinFormApp\Kurs Ishi\obj\Debug\net6.0-windows\Kurs Ishi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sanjarbek\source\repos\WinFormApp\Kurs Ishi\obj\Debug\net6.0-windows\Kurs Ishi.AssemblyInfoInputs.cache
+C:\Users\Sanjarbek\source\repos\WinFormApp\Kurs Ishi\obj\Debug\net6.0-windows\Kurs Ishi.AssemblyInfo.cs
+C:\Users\Sanjarbek\source\repos\WinFormApp\Kurs Ishi\obj\Debug\net6.0-windows\Kurs Ishi.csproj.CoreCompileInputs.cache
+C:\Users\Sanjarbek\source\repos\WinFormApp\Kurs Ishi\obj\Debug\net6.0-windows\Kurs Ishi.dll
+C:\Users\Sanjarbek\source\repos\WinFormApp\Kurs Ishi\obj\Debug\net6.0-windows\refint\Kurs Ishi.dll
+C:\Users\Sanjarbek\source\repos\WinFormApp\Kurs Ishi\obj\Debug\net6.0-windows\Kurs Ishi.pdb
+C:\Users\Sanjarbek\source\repos\WinFormApp\Kurs Ishi\obj\Debug\net6.0-windows\Kurs Ishi.genruntimeconfig.cache
+C:\Users\Sanjarbek\source\repos\WinFormApp\Kurs Ishi\obj\Debug\net6.0-windows\ref\Kurs Ishi.dll
+C:\Users\Sanjarbek\source\repos\WinFormApp\Kurs Ishi\obj\Debug\net6.0-windows\Kurs_Ishi.AllTodos.resources
+C:\Users\Sanjarbek\source\repos\WinFormApp\Kurs Ishi\obj\Debug\net6.0-windows\Kurs_Ishi.Home.resources
+C:\Users\Sanjarbek\source\repos\WinFormApp\Kurs Ishi\obj\Debug\net6.0-windows\Kurs_Ishi.Properties.Resources.resources
+C:\Users\Sanjarbek\source\repos\WinFormApp\Kurs Ishi\obj\Debug\net6.0-windows\Kurs_Ishi.AddTodoForm.resources
+C:\Users\Sanjarbek\source\repos\WinFormApp\Kurs Ishi\obj\Debug\net6.0-windows\Kurs_Ishi.DetailTodo.resources

@@ -1,0 +1,5 @@
+C:\Users\Sanjarbek\source\repos\TraficRules\TraficRules\bin\publish\TraficRules.exe
+C:\Users\Sanjarbek\source\repos\TraficRules\TraficRules\bin\publish\TraficRules.dll
+C:\Users\Sanjarbek\source\repos\TraficRules\TraficRules\bin\publish\TraficRules.deps.json
+C:\Users\Sanjarbek\source\repos\TraficRules\TraficRules\bin\publish\TraficRules.runtimeconfig.json
+C:\Users\Sanjarbek\source\repos\TraficRules\TraficRules\bin\publish\TraficRules.pdb
