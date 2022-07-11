@@ -1,3 +1,3 @@
 # CSharp-desktop-apps
 
-## Windows forms orqali yaratilgan "desktop application" lar
+## Windows forms orqali qurilgan "desktop application" lar
