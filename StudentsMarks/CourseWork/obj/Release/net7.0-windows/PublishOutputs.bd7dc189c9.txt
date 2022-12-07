@@ -1,0 +1,5 @@
+C:\Users\Sanjarbek\source\repos\CourseWork\CourseWork\bin\Release\net7.0-windows\app.publish\CourseWork.exe
+C:\Users\Sanjarbek\source\repos\CourseWork\CourseWork\bin\Release\net7.0-windows\app.publish\CourseWork.dll
+C:\Users\Sanjarbek\source\repos\CourseWork\CourseWork\bin\Release\net7.0-windows\app.publish\CourseWork.deps.json
+C:\Users\Sanjarbek\source\repos\CourseWork\CourseWork\bin\Release\net7.0-windows\app.publish\CourseWork.runtimeconfig.json
+C:\Users\Sanjarbek\source\repos\CourseWork\CourseWork\bin\Release\net7.0-windows\app.publish\CourseWork.pdb

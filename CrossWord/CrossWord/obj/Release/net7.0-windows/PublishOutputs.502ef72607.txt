@@ -1,0 +1,5 @@
+C:\Users\Sanjarbek\source\repos\CrossWord\CrossWord\bin\Release\net7.0-windows\app.publish\CrossWord.exe
+C:\Users\Sanjarbek\source\repos\CrossWord\CrossWord\bin\Release\net7.0-windows\app.publish\CrossWord.dll
+C:\Users\Sanjarbek\source\repos\CrossWord\CrossWord\bin\Release\net7.0-windows\app.publish\CrossWord.deps.json
+C:\Users\Sanjarbek\source\repos\CrossWord\CrossWord\bin\Release\net7.0-windows\app.publish\CrossWord.runtimeconfig.json
+C:\Users\Sanjarbek\source\repos\CrossWord\CrossWord\bin\Release\net7.0-windows\app.publish\CrossWord.pdb
