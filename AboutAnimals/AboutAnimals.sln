@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HayvonlarHaqida", "HayvonlarHaqida\HayvonlarHaqida.csproj", "{125279DD-192B-48AC-9030-648AC6F18E68}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "About Animals Installer", "About Animals Installer\About Animals Installer.vdproj", "{8DC7DC22-B4EE-44F8-8758-B5B4CFBBACD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{125279DD-192B-48AC-9030-648AC6F18E68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{125279DD-192B-48AC-9030-648AC6F18E68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{125279DD-192B-48AC-9030-648AC6F18E68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{125279DD-192B-48AC-9030-648AC6F18E68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DC7DC22-B4EE-44F8-8758-B5B4CFBBACD6}.Debug|Any CPU.ActiveCfg = Debug
+		{8DC7DC22-B4EE-44F8-8758-B5B4CFBBACD6}.Debug|Any CPU.Build.0 = Debug
+		{8DC7DC22-B4EE-44F8-8758-B5B4CFBBACD6}.Release|Any CPU.ActiveCfg = Release
+		{8DC7DC22-B4EE-44F8-8758-B5B4CFBBACD6}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {704F13E3-2A8C-4067-BB13-40BE6CD49D3C}
+	EndGlobalSection
+EndGlobal

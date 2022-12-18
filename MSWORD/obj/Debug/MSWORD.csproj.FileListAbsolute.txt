@@ -1,0 +1,14 @@
+C:\Users\Sanjarbek\Desktop\MSWORD\obj\Debug\MSWORD.csproj.AssemblyReference.cache
+C:\Users\Sanjarbek\Desktop\MSWORD\obj\Debug\MSWORD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sanjarbek\Desktop\MSWORD\bin\Debug\MSWORD.exe.config
+C:\Users\Sanjarbek\Desktop\MSWORD\bin\Debug\MSWORD.exe
+C:\Users\Sanjarbek\Desktop\MSWORD\bin\Debug\MSWORD.pdb
+C:\Users\Sanjarbek\Desktop\MSWORD\obj\Debug\MSWORD.Properties.Resources.resources
+C:\Users\Sanjarbek\Desktop\MSWORD\obj\Debug\MSWORD.csproj.GenerateResource.cache
+C:\Users\Sanjarbek\Desktop\MSWORD\obj\Debug\MSWORD.csproj.CoreCompileInputs.cache
+C:\Users\Sanjarbek\Desktop\MSWORD\obj\Debug\MSWORD.exe
+C:\Users\Sanjarbek\Desktop\MSWORD\obj\Debug\MSWORD.pdb
+C:\Users\Sanjarbek\Desktop\MSWORD\obj\Debug\MSWORD.Home.resources
+C:\Users\Sanjarbek\Desktop\MSWORD\bin\Debug\Xceed.Document.NET.dll
+C:\Users\Sanjarbek\Desktop\MSWORD\bin\Debug\Xceed.Words.NET.dll
+C:\Users\Sanjarbek\Desktop\MSWORD\obj\Debug\MSWORD.csproj.CopyComplete

@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{125279DD-192B-48AC-9030-648AC6F18E68}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>HayvonlarHaqida</RootNamespace>
+    <AssemblyName>HayvonlarHaqida</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Animals.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\timsoh.jpg" />
+    <None Include="Resources\timsoh2.png" />
+    <None Include="Resources\kobra-ilon.jpg" />
+    <None Include="Resources\kobra2.png" />
+    <None Include="Resources\sher.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sher2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\akula.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\akula2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bori.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bori2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\burgut.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\burgut2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ayiq.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ayiq2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yolbars.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yolbars2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tulki.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chayon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\chayon2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boyqush.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boyqush2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sirtlon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sirtlon2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\qoplon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\qoplon2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anakonda.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anakonda2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meduza.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\meduza2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yaguar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\yaguar2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\begemot.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\begemot2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\echkiemar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\echkiemar2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tulki2.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
